@@ -1,5 +1,4 @@
 # 5th_SPRING_A
-
 <img width="75%" src="https://github.com/SMUMC/5th_SPRING_A/assets/55044278/4f812fa2-b866-4d27-ac58-22ea363c2caa">
 
 ### Member
