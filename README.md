@@ -3,7 +3,7 @@
 <img width="75%" src="https://github.com/SMUMC/5th_SPRING_A/assets/55044278/4f812fa2-b866-4d27-ac58-22ea363c2caa">
 
 ### Member
-| <img src="https://avatars.githubusercontent.com/u/55044278?v=4" width=90px alt="제이스/임재영"/>  | <img src="https://avatars.githubusercontent.com/u/113494060?v=4" width=90px alt="사하/윤근수"/>  | <img src="https://avatars.githubusercontent.com/u/61226778?v=4" width=90px alt="요비/김승엽"/>  | <img src="https://avatars.githubusercontent.com/u/121855519?v=4" width=90px alt="주디/이연주"/>  | 
+| <img src="https://avatars.githubusercontent.com/u/55044278?v=4" width=100px alt="제이스/임재영"/>  | <img src="https://avatars.githubusercontent.com/u/113494060?v=4" width=100px alt="사하/윤근수"/>  | <img src="https://avatars.githubusercontent.com/u/61226778?v=4" width=100px alt="요비/김승엽"/>  | <img src="https://avatars.githubusercontent.com/u/121855519?v=4" width=100px alt="주디/이연주"/>  | 
 | :-----: | :-----: | :-----: | :-----: |
 | [제이스(임재영)](https://github.com/limjustin) | [사하(윤근수)](https://github.com/rlJzr)  | [요비(김승엽)](https://github.com/yeopyeop-82) | [주디(이연주)](https://github.com/Lee-Yeonjoo) |
 <br>
