@@ -25,4 +25,4 @@
 <br>
 
 ### Study Notes
-1️⃣ [1주차 노트](https://makeus-challenge.notion.site/1-a117b0cb03c4408ca0334c6169a3dbf8?pvs=4)
+1️⃣ [1주차 노트 - 프로젝트 세팅 (Spring Initializr & gitignore 적용)](https://makeus-challenge.notion.site/1-a117b0cb03c4408ca0334c6169a3dbf8?pvs=4)
